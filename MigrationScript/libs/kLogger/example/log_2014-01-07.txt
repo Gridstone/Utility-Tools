@@ -1,0 +1,16 @@
+2014-01-07 9:34:18 - INFO --> Info Test
+2014-01-07 9:34:18 - NOTICE --> Notice Test
+2014-01-07 9:34:18 - WARN --> Warn Test
+2014-01-07 9:34:18 - ERROR --> Error Test
+2014-01-07 9:34:18 - CRIT --> Fatal Test
+2014-01-07 9:34:18 - ALERT --> Alert Test
+2014-01-07 9:34:18 - CRIT --> Crit test
+2014-01-07 9:34:18 - EMERG --> Emerg Test
+2014-01-07 9:34:18 - INFO --> Testing passing an array or object; array (
+  'a' => 
+  array (
+    'b' => 'c',
+  ),
+  0 => 'd',
+)
+2014-01-07 9:34:18 - WARN --> Testing passing a NULL value; NULL
